@@ -1,0 +1,2 @@
+# Pajton projekat
+ automatizacija seo
